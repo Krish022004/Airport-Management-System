@@ -1,21 +1,7 @@
-**Log on to codeastro.com for more projects!***
-
-**Database Name: ofbsphp**
-
-**Developed by Sujoy Dcunha, Christina Pereira, Mark Coutinho**
-
-**Recommended PHP Version 5.6, 7.4**
-
-
-**Admin Login Details**
-
-Username: admin
-Password: codeastro.com
-
 
 # **Online Flight Booking Management System**
 
-## Required PHP Version: >= 7.4
+
 
 
 This is a modified copy. Some error occurred while running the project using PHP v8.1 and MariaDB 10.24.
